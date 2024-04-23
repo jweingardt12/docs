@@ -12,11 +12,6 @@
       "to": "#07C983"
     }
   },
-  "analytics": {
-    "mixpanel": {
-        "projectToken": "5db66ec66440b142246bbc78f4c85f3c"
-    }
-},
   "topbarLinks": [
     {
       "name": "Resume",
