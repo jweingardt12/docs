@@ -1,6 +1,7 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Jason Weingardt"
+  "name": "Jason Weingardt",
+  "title": "Jason Weingardt"
   },
   "favicon": "/favicon.svg",
   "colors": {
