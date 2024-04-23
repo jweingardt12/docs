@@ -33,14 +33,14 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "name": "DoResume",
+      "icon": "file-user",
+      "url": "https://www.linkedin.com/in/jasonweingardt/"
     },
     {
-      "name": "Community",
+      "name": "Meet with me →",
       "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "url": "https://fantastical.app/jasonw/chat"
     },
     {
       "name": "Blog",
