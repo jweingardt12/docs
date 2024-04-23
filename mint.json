@@ -42,12 +42,9 @@
     {
       "group": "My Work",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "pages/my-work",
+        "pages/code",
+        "pages/images"
       ]
     },
     {
