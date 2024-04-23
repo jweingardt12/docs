@@ -12,12 +12,6 @@
       "to": "#07C983"
     }
   },
-  "topbarLinks": [
-    {
-      "name": "Resume",
-      "url": "https://www.linkedin.com/in/jasonweingardt/"
-    }
-  ],
   "anchors": [
     {
       "name": "Resume",
@@ -32,17 +26,11 @@
   ],
   "navigation": [
     {
-      "group": "My Work",
+      "group": "About",
       "pages": [
-        "pages/my-work",
-        "pages/product-management",
-        "pages/photography"
-      ]
-    },
-    {
-      "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
+        "/my-work",
+        "/product-management",
+        "/photography"
       ]
     }
   ],
