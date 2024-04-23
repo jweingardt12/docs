@@ -35,7 +35,7 @@
       "group": "About Jason",
       "pages": [
         {
-          "name": "Home",  // Changed from "index" to "Home"
+          "name": "Home",
           "url": "index"
         },
         "quickstart",
