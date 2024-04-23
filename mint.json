@@ -34,7 +34,10 @@
     {
       "group": "About Jason",
       "pages": [
-        "index",
+        {
+          "name": "Home",  // Changed from "index" to "Home"
+          "url": "index"
+        },
         "quickstart",
         "development"
       ]
@@ -67,7 +70,7 @@
   ],
   "footerSocials": {
     "x": "https://x.com/jason_weingardt",
-    "github": "https://github.com/jweingardt",
+    "github": "https://github.com/jweingardt12",
     "linkedin": "https://www.linkedin.com/in/jasonweingardt/"
   }
 }
