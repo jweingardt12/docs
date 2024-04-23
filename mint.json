@@ -33,19 +33,14 @@
   ],
   "anchors": [
     {
-      "name": "DoResume",
+      "name": "Resume",
       "icon": "file-user",
       "url": "https://www.linkedin.com/in/jasonweingardt/"
     },
     {
-      "name": "Meet with me →",
-      "icon": "slack",
+      "name": "Meet with me",
+      "icon": "calendar-days",
       "url": "https://fantastical.app/jasonw/chat"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
     }
   ],
   "navigation": [
