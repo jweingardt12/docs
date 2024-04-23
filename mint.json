@@ -34,7 +34,7 @@
     {
       "group": "About Jason",
       "pages": [
-        "introduction",
+        "index",
         "quickstart",
         "development"
       ]
