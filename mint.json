@@ -18,16 +18,6 @@
       "url": "https://www.linkedin.com/in/jasonweingardt/"
     }
   ],
-  "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
-  },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
   "anchors": [
     {
       "name": "Resume",
@@ -42,7 +32,7 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "About Jason",
       "pages": [
         "introduction",
         "quickstart",
@@ -50,7 +40,7 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "My Work",
       "pages": [
         "essentials/markdown",
         "essentials/code",
