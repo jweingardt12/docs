@@ -1,7 +1,10 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Jason Weingardt",
-  "title": "Jason Weingardt",
+  "name": "Starter Kit",
+  "logo": {
+    "dark": "/logo/dark.svg",
+    "light": "/logo/light.svg"
+  },
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#0D9373",
@@ -12,33 +15,63 @@
       "to": "#07C983"
     }
   },
+  "topbarLinks": [
+    {
+      "name": "Support",
+      "url": "mailto:hi@mintlify.com"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "Dashboard",
+    "url": "https://dashboard.mintlify.com"
+  },
+  "tabs": [
+    {
+      "name": "API Reference",
+      "url": "api-reference"
+    }
+  ],
   "anchors": [
     {
-      "name": "Resume",
-      "icon": "file-user",
-      "url": "https://www.linkedin.com/in/jasonweingardt/"
+      "name": "Documentation",
+      "icon": "book-open-cover",
+      "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Meet with me",
-      "icon": "calendar-days",
-      "url": "https://fantastical.app/jasonw/chat"
+      "name": "Community",
+      "icon": "slack",
+      "url": "https://mintlify.com/community"
+    },
+    {
+      "name": "Blog",
+      "icon": "newspaper",
+      "url": "https://mintlify.com/blog"
     }
   ],
   "navigation": [
     {
-      "group": "About Jason",
+      "group": "Get Started",
       "pages": [
-        "index",
+        "introduction",
         "quickstart",
         "development"
       ]
     },
     {
-      "group": "About",
+      "group": "Essentials",
       "pages": [
-        "/pages/my-work",
-        "/pages/product-management",
-        "/pages/photography"
+        "essentials/markdown",
+        "essentials/code",
+        "essentials/images",
+        "essentials/settings",
+        "essentials/navigation",
+        "essentials/reusable-snippets"
+      ]
+    },
+    {
+      "group": "API Documentation",
+      "pages": [
+        "api-reference/introduction"
       ]
     },
     {
@@ -51,9 +84,8 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/jason_weingardt",
-    "github": "https://github.com/jweingardt",
-    "linkedin": "https://www.linkedin.com/in/jasonweingardt/",
-    "threads": "https://www.threads.net/@jweingardt"
+    "x": "https://x.com/mintlify",
+    "github": "https://github.com/mintlify",
+    "linkedin": "https://www.linkedin.com/company/mintsearch"
   }
 }
