@@ -31,7 +31,8 @@
       "name": "Meet with me",
       "icon": "calendar-days",
       "url": "https://fantastical.app/jasonw/chat"
-    },
+    }
+  ],
   "navigation": [
     {
       "group": "My Work",
@@ -50,7 +51,8 @@
         "essentials/navigation",
         "essentials/reusable-snippets"
       ]
-    },
+    }
+  ],
   "footerSocials": {
     "instagram": "https://www.instagram.com/jweingardt/",
     "github": "https://github.com/jweingardt12",
