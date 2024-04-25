@@ -41,6 +41,17 @@
         "essentials/navigation",
         "essentials/reusable-snippets"
       ]
+    },
+  {
+      "group": "My Work",
+      "pages": [
+        "essentials/markdown",
+        "essentials/code",
+        "essentials/images",
+        "essentials/settings",
+        "essentials/navigation",
+        "essentials/reusable-snippets"
+      ]
     }
   ],
   "footerSocials": {
