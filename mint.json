@@ -25,40 +25,27 @@
     "name": "Dashboard",
     "url": "https://dashboard.mintlify.com"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Resume",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://resume.io/r/HCLqdNUge"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "name": "Meet with me",
+      "icon": "calendar-days",
+      "url": "https://fantastical.app/jasonw/chat"
     },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
-    }
-  ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "My Work",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "Product Management",
+        "Program Management"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "About Me",
       "pages": [
         "essentials/markdown",
         "essentials/code",
