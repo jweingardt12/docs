@@ -26,11 +26,27 @@
   ],
   "navigation": [
     {
+      "group": "About Jason",
+      "pages": [
+        "index",
+        "quickstart",
+        "development"
+      ]
+    },
+    {
       "group": "About",
       "pages": [
         "/pages/my-work",
         "/pages/product-management",
         "/pages/photography"
+      ]
+    },
+    {
+      "group": "Endpoint Examples",
+      "pages": [
+        "api-reference/endpoint/get",
+        "api-reference/endpoint/create",
+        "api-reference/endpoint/delete"
       ]
     }
   ],
